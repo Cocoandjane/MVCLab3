@@ -1,0 +1,17 @@
+
+@{
+    ViewData["Title"] = "Content";
+     var myFiles = ViewBag.myFiles;
+}
+
+
+<h1> @ViewData["Title"]</h1>
+
+<ul>
+    @foreach (var item in myFiles)
+    {
+        <li>
+            @ViewData[item]
+        </li>
+    }
+</ul>

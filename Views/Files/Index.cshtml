@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Index";
+    var myFiles = ViewBag.myFiles;
+}
+
+<h1> @ViewData["Title"]</h1>
+
+<ul>
+    @foreach (var item in myFiles)
+    {
+        string path = item;
+        <li> <a asp-controller="Files"
+                asp-action="Content"
+                asp-route-id="@item"
+        >@ViewData[path]</a></li>
+    }
+</ul>
