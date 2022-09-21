@@ -239,3 +239,9 @@
 /Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/obj/Debug/net6.0/MVCLab3.csproj.CopyComplete
+/Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/TextFiles/File1.txt
+/Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/TextFiles/File2.txt
+/Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/TextFiles/File3.txt
+/Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/TextFiles/File4.txt
+/Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/TextFiles/File5.txt
+/Users/jane/Desktop/term3/csharp/week3/lab3/MVCLab3/bin/Debug/net6.0/TextFiles/File6.txt

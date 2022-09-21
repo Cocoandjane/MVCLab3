@@ -25,7 +25,7 @@ namespace MVCLab3.Controllers
             }
             return View();
         }
-        public IActionResult Content()
+        public IActionResult Content(int id )
         {
             string[] files = Directory.GetFiles("TextFiles");
             ViewBag.myFiles = files;
